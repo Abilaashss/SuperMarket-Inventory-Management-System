@@ -1,0 +1,130 @@
+Products with stock below 5:
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 1
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 2
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 1
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 2
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 1
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 2
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 1
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 2
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 1
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 2
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 1
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 2
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 1
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 2
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 1
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 76, Name: alpha, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 2
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 1
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 2
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 1
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 2
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 1
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 2
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 1
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 2
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 1
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 2
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 1
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 2
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 1
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 2
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 9, Name: Xbox Series X, Quantity: 3
+ID: 10, Name: Canon EOS R5, Quantity: 1
+ID: 13, Name: Samsung 55 QN90A QLED TV, Quantity: 4
+ID: 14, Name: LG OLED77C1PUB 77 OLED TV, Quantity: 3
+ID: 76, Name: alpha, Quantity: 3
